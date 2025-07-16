@@ -182,7 +182,7 @@ stack test
 
 ## Contributing
 
-This project follows the implementation plan outlined in `.kiro/specs/auth-dsl/tasks.md`. Current focus areas:
+Current focus areas:
 
 1. Completing TypeScript code generation
 2. Adding Python and Go generators
